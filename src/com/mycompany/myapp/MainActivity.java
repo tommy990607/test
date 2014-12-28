@@ -13,6 +13,6 @@ public class MainActivity extends Activity
 	{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-		setTitle("测试Gitub");
+		setTitle("测试Github");
     }
 }
